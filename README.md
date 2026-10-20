@@ -3222,6 +3222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Realask](https://realask.net) `https://realask.net/mcp`
   [![Realask MCP connector](https://glama.ai/mcp/connectors/io.github.danelas/realask/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danelas/realask)
   🔓 - Verify stock, prices and availability at US local businesses by phone, with evidence.
+- [Recall Kitchen](https://recallkitchen.com/docs) `https://app.recallkitchen.com/mcp`
+  [![Recall Kitchen MCP connector](https://glama.ai/mcp/connectors/com.recallkitchen.app/recall-kitchen/badges/score.svg)](https://glama.ai/mcp/connectors/com.recallkitchen.app/recall-kitchen)
+  🔓 - Search government recall notices (CPSC, FDA, USDA, NHTSA, Health Canada) by keyword, UPC, lot, VIN or photo.
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
